@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qijun-li&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osako110&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
