@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Qijun Li 👋</h1>
+<h1 align="center">Hi, I'm Qijun(Dino) Li 👋</h1>
 
 <p align="center">
   <em>Full-Stack AI Engineer · Building agentic systems with real engineering rigor</em>
@@ -97,8 +97,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qijun-li&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qijun-li&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=osako110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osako110&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
