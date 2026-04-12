@@ -14,18 +14,6 @@
 
 ### 🚀 About Me
 
-```python
-class Dino:
-    def __init__(self):
-        self.role        = ["AI Engineer", "Software Developer"]
-        self.education   = "M.S. @ UC San Diego"
-        self.focus       = ["LLM Systems", "Inference Optimization", "Full-Stack AI Apps"]
-        self.experience  = "AI/ML Intern @ Hirello.ai"
-        self.languages   = ["English", "中文"]
-
-    def current_work(self):
-        return "Building agentic workflows & efficient LLM serving systems ⚡"
-```
 
 - 🎓 Graduate student focusing on **LLM systems, inference optimization, and ML infrastructure**
 - 💼 Previously building **AI-powered interview tooling** at Hirello.ai
