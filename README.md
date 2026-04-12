@@ -16,21 +16,7 @@
 
 ### 🚀 About Me
 
-```python
-class QijunLi:
-    def __init__(self):
-        self.role     = "Full-Stack AI Engineer"
-        self.school   = "M.S. CS @ UC San Diego"
-        self.focus    = ["LLM Agents", "RAG Systems", "Backend Infrastructure"]
-        self.building = "Agentic systems where AI meets production engineering"
 
-    def what_i_care_about(self):
-        return [
-            "Agents that actually work in production — not just demos",
-            "Retrieval pipelines with measurable grounding & recall",
-            "Backend systems that scale: queues, vectors, observability",
-        ]
-```
 
 - 🤖 **AI Engineer** — building multi-agent orchestration, MCP-connected tools, RAG pipelines, and LLM evaluation harnesses
 - 🛠️ **Full-Stack SDE** — comfortable end-to-end from React/Next.js UIs down to Kafka, PostgreSQL, and Kubernetes
