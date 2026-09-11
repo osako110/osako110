@@ -20,8 +20,6 @@
 
 - 🤖 **AI Engineer** — building multi-agent orchestration, MCP-connected tools, RAG pipelines, and LLM evaluation harnesses
 - 🛠️ **Full-Stack SDE** — comfortable end-to-end from React/Next.js UIs down to Kafka, PostgreSQL, and Kubernetes
-- 💼 Most recently shipped a production AI product at **Hirello.ai**, taking LLM service reliability from 85% → 99%+
-- 🎓 Finishing my M.S. at UCSD (graduating **March 2026**) — open to full-time **AI Engineer / SDE** roles
 - 📫 Reach me at **qil060@ucsd.edu**
 
 ---
